@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="Sources/PressKits/logo.png" alt="HexSwiftUI" width="256" />
+<p align="left">
+  <img src="Sources/PressKits/logo.png" alt="HexSwiftUI" hight="256" />
 </p>
 
-<h1 align="center">HexSwiftUI</h1>
+<h1 align="left">HexSwiftUI</h1>
 
-<p align="center">
+<p align="left">
   A tiny SwiftUI extension that lets you build <code>Color</code> from hex strings.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="#installation">Installation</a> ·
   <a href="#usage">Usage</a> ·
   <a href="#supported-formats">Formats</a> ·
