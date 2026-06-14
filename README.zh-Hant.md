@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="PressKits/logo.png" alt="HexSwiftUI" width="180" />
+<p align="left">
+  <img src="PressKits/logo.png" alt="HexSwiftUI" width="256" />
 </p>
 
-<h1 align="center">HexSwiftUI</h1>
+<h1 align="left">HexSwiftUI</h1>
 
-<p align="center">
+<p align="left">
   以一個極輕量的 SwiftUI 擴充套件，從 hex 字串建立 <code>Color</code>。
 </p>
 
-<p align="center">
+<p align="left">
   <a href="#安裝">安裝</a> ·
   <a href="#使用方式">使用方式</a> ·
   <a href="#支援的格式">格式</a> ·
