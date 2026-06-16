@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="Sources/PressKits/logo.png" alt="HexSwiftUI" hight="256" />
+  <img src="PressKits/logo.png" alt="HexSwiftUI" hight="256" />
 </p>
 
 <h1 align="left">HexSwiftUI</h1>
